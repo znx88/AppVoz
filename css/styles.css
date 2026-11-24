@@ -522,7 +522,7 @@ dialog p {
 body.dark {
     background: radial-gradient(
         ellipse at 50% 0,
-        #252b52 0,
+        #211329 0,
         transparent 55%
     ), #111626;
     color: #fce7f3;
@@ -575,7 +575,7 @@ body.dark .intro {
 }
 
 body.dark dialog {
-    background: #222a40;
+    background: #150e1b;
     color: #fce7f3;
 }
 
