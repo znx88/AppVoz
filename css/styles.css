@@ -529,45 +529,45 @@ body.dark {
 }
 
 body.dark .topbar {
-    border-color: #303750;
+    border-color: #1d0f22;
 }
 
 body.dark .card,
 body.dark .commands,
 body.dark .command,
 body.dark .theme-btn {
-    background: #1c2337;
+    background: #000000;
     color: #fce7f3;
-    border-color: #333c55;
+    border-color: #000000;
 }
 
 body.dark .result-box {
-    background: #171e31;
-    border-color: #333c55;
+    background: #000000;
+    border-color: #000000;
 }
 
 body.dark .reply-box,
 body.dark .command-icon,
 body.dark .pill,
 body.dark .count {
-    background: #30365b;
+    background: #000000;
 }
 
 body.dark .task-list li {
-    border-color: #333c55;
+    border-color: #000000;
 }
 
 body.dark .progress-track {
-    background: #303750;
+    background: #000000;
 }
 
 body.dark .demo-tag {
-    background: #303750;
+    background: #000000;
     color: #adb6d0;
 }
 
 body.dark .command:hover {
-    background: #282f49;
+    background: #000000;
 }
 
 body.dark .intro {
