@@ -1,0 +1,11 @@
+TALLER: ASISTENTE PERSONAL POR VOZ — VozTask
+
+La aplicación utiliza HTML5 para estructurar la página, CSS3 para el diseño adaptable y JavaScript para interpretar los comandos. Cuando el navegador lo permite, SpeechRecognition convierte la voz del usuario en texto. JavaScript analiza ese texto y ejecuta la acción: añadir una tarea, mostrar la lista, solicitar confirmación antes de eliminarla o cambiar el tema. La lista se actualiza dinámicamente en pantalla y se guarda en localStorage. SpeechSynthesis permite que el asistente lea sus respuestas en voz alta.
+
+Si el reconocimiento no está disponible, los cuatro botones de demostración envían frases de ejemplo al mismo intérprete de comandos. Esta opción SIMULA la entrada de voz y no utiliza el micrófono.
+
+PRUEBAS: Completar después de probar la aplicación.
+Voz real: __________________________
+Modo demostración: __________________
+Navegador y dispositivo: ____________
+Observaciones: ______________________
